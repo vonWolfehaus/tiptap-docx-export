@@ -1,0 +1,577 @@
+{
+    "type": "doc",
+    "content": [
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "left"
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "The "
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "Document "
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "underline"
+                        }
+                    ],
+                    "text": "object "
+                },
+                {
+                    "type": "text",
+                    "text": "is the starting point of your .docx journey, this is the literal Word Docu"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "strike"
+                        }
+                    ],
+                    "text": "me"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "underline"
+                        },
+                        {
+                            "type": "strike"
+                        }
+                    ],
+                    "text": "nt. Y"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "underline"
+                        },
+                        {
+                            "type": "bold"
+                        },
+                        {
+                            "type": "strike"
+                        }
+                    ],
+                    "text": "o"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "bold"
+                        },
+                        {
+                            "type": "strike"
+                        }
+                    ],
+                    "text": "u a"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "dd all y"
+                },
+                {
+                    "type": "text",
+                    "text": "our content such as Paragraphs to t"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "bold"
+                        }
+                    ],
+                    "text": "his Doc"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "bold"
+                        },
+                        {
+                            "type": "italic"
+                        }
+                    ],
+                    "text": "um"
+                },
+                {
+                    "type": "text",
+                    "marks": [
+                        {
+                            "type": "italic"
+                        }
+                    ],
+                    "text": "ent, and"
+                },
+                {
+                    "type": "text",
+                    "text": " at the end export it however you like."
+                }
+            ]
+        },
+        {
+            "type": "bulletList",
+            "content": [
+                {
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "b1"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "b2"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "bulletList",
+                            "content": [
+                                {
+                                    "type": "listItem",
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "attrs": {
+                                                "textAlign": "left"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "b2 a"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "listItem",
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "attrs": {
+                                                "textAlign": "left"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "b2 b"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "bulletList",
+                                            "content": [
+                                                {
+                                                    "type": "listItem",
+                                                    "content": [
+                                                        {
+                                                            "type": "paragraph",
+                                                            "attrs": {
+                                                                "textAlign": "left"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "b3 a"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "listItem",
+                                                    "content": [
+                                                        {
+                                                            "type": "paragraph",
+                                                            "attrs": {
+                                                                "textAlign": "left"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "b3 b"
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "type": "bulletList",
+                                                            "content": [
+                                                                {
+                                                                    "type": "listItem",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "paragraph",
+                                                                            "attrs": {
+                                                                                "textAlign": "left"
+                                                                            },
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "b4 a"
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "type": "listItem",
+                                                                    "content": [
+                                                                        {
+                                                                            "type": "paragraph",
+                                                                            "attrs": {
+                                                                                "textAlign": "left"
+                                                                            },
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "text",
+                                                                                    "text": "b4 b"
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "type": "bulletList",
+                                                                            "content": [
+                                                                                {
+                                                                                    "type": "listItem",
+                                                                                    "content": [
+                                                                                        {
+                                                                                            "type": "paragraph",
+                                                                                            "attrs": {
+                                                                                                "textAlign": "left"
+                                                                                            },
+                                                                                            "content": [
+                                                                                                {
+                                                                                                    "type": "text",
+                                                                                                    "text": "b5 a"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "type": "listItem",
+                                                                                    "content": [
+                                                                                        {
+                                                                                            "type": "paragraph",
+                                                                                            "attrs": {
+                                                                                                "textAlign": "left"
+                                                                                            },
+                                                                                            "content": [
+                                                                                                {
+                                                                                                    "type": "text",
+                                                                                                    "text": "b5 b"
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "attrs": {
+                "textAlign": "left",
+                "level": 2
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Heading H2"
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "left"
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Various parts of the API require positioning arguments. The units are \"20ths of a point\" from the OOXML specification. See Lars Corneliussen's blog post for more information and how to convert units."
+                }
+            ]
+        },
+        {
+            "type": "heading",
+            "attrs": {
+                "textAlign": "left",
+                "level": 3
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Heading H3"
+                }
+            ]
+        },
+        {
+            "type": "orderedList",
+            "attrs": {
+                "start": 1
+            },
+            "content": [
+                {
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "ordered list start"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "listItem",
+                    "content": [
+                        {
+                            "type": "paragraph",
+                            "attrs": {
+                                "textAlign": "left"
+                            },
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "second"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "orderedList",
+                            "attrs": {
+                                "start": 1
+                            },
+                            "content": [
+                                {
+                                    "type": "listItem",
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "attrs": {
+                                                "textAlign": "left"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "2a"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "listItem",
+                                    "content": [
+                                        {
+                                            "type": "paragraph",
+                                            "attrs": {
+                                                "textAlign": "left"
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "text",
+                                                    "text": "2b"
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "type": "orderedList",
+                                            "attrs": {
+                                                "start": 1
+                                            },
+                                            "content": [
+                                                {
+                                                    "type": "listItem",
+                                                    "content": [
+                                                        {
+                                                            "type": "paragraph",
+                                                            "attrs": {
+                                                                "textAlign": "left"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "3a"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "type": "listItem",
+                                                    "content": [
+                                                        {
+                                                            "type": "paragraph",
+                                                            "attrs": {
+                                                                "textAlign": "left"
+                                                            },
+                                                            "content": [
+                                                                {
+                                                                    "type": "text",
+                                                                    "text": "3b"
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "center"
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Centered. Compatibility Settings are optional settings used to preserve visual fidelity of documents created in earlier word processing applications. "
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "right"
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "right"
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Right. Some of these settings provide ability for specific behaviors, described in detail below; and others simply instruct applications to mimic the behavior of an existing word processing application."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "justify"
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "justify"
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Justified. A section is a grouping of paragraphs that have a specific set of properties used to define the pages on which the text will appear. Properties include page size, page numbers, page orientation, headers, borders and margins."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "left"
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "left"
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Back to left aligned."
+                }
+            ]
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "left"
+            }
+        },
+        {
+            "type": "paragraph",
+            "attrs": {
+                "textAlign": "left"
+            },
+            "content": [
+                {
+                    "type": "text",
+                    "text": "Last paragraph. For example, you could have one section which is portrait with a header and footer, and another section in landscape with no footer, and a header showing the current page number."
+                }
+            ]
+        }
+    ]
+}
